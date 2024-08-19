@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Mohamed-24-03-2022/node-basic-information-site#readme",
   "dependencies": {
+    "express": "^4.19.2",
     "nodemailer": "^6.9.14"
   }
 }
